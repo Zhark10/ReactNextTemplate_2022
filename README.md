@@ -1,0 +1,1 @@
+# ReactNextTemplate_2022
